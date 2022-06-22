@@ -1,7 +1,6 @@
 # Embedded-System-Project
 <div>
 <h1>Hệ thống nhúng</h1>
-  <h2>C</h2>
 <img src='https://cafedev.vn/wp-content/uploads/2020/02/cafedev_c.jpg' width="48" height="42"/>
 </div>
 <h2>Mô tả</h2>
